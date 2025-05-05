@@ -1,3 +1,9 @@
+"""
+백준
+빵집
+https://www.acmicpc.net/problem/3109
+"""
+
 import sys
 
 BLOCKED = "x"
