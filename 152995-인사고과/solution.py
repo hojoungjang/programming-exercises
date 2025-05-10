@@ -1,3 +1,9 @@
+"""
+프로그래머스
+인사고과
+https://school.programmers.co.kr/learn/courses/30/lessons/152995
+"""
+
 def solution(scores):
     wanho_score = tuple(scores[0])
 

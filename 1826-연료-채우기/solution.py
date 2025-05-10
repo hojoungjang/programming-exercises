@@ -1,3 +1,8 @@
+"""
+백준
+연료 채우기
+https://www.acmicpc.net/problem/1826
+"""
 import sys
 from heapq import heappush, heappop
 
