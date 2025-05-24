@@ -1,3 +1,9 @@
+"""
+백준
+퇴사
+https://www.acmicpc.net/problem/14501
+"""
+
 import sys
 
 def solution(tasks):
